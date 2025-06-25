@@ -1,4 +1,3 @@
----
 
 # 📁 Projeto: Reconhecimento de Texto com Azure AI Vision
 
